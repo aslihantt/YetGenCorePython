@@ -9,4 +9,4 @@ Burada egitimde ogrendiklerimi ve uygulamalarımı ve aynı zamanda egitim sonra
 - Kodlama nedir?
 - Python ve Visual Studio Code kurulumu
 
-
+https://github.com/rzashakeri/beautify-github-profile#-icons-
