@@ -1,0 +1,2 @@
+VKÝ HESAPLAMA 
+isim:asli soyisim=tat yas=21 boy=1.7 kilo=59.0 vki = 20.41522491349481 kategori= Normal kilolu
